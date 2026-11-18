@@ -2,7 +2,7 @@
 # Contributor: Fabricio Silva <hi@fabricio.dev>
 # Maintainer: Robert Mongold <rtmongold@gmail.com>
 pkgname=mise
-pkgver=2026.10.24
+pkgver=2026.11.10
 pkgrel=0
 pkgdesc="Polyglot runtime and dev tool version manager"
 url="https://mise.jdx.dev/"
@@ -73,5 +73,5 @@ package() {
 }
 
 sha512sums="
-a06e0ab6dbae0fc8953cfffab06522e059c8af7c6ad2da57808651040dc4ea6b968a32972f384aa035d257b362af14b09cf18ea598265898170cf0f31055bbb5  mise-2026.10.24.tar.gz
+2cf59ce9818953514e42e49dcaf41b114dd173b291358a60e4320c1e49def8762ab1e7a6ecaca676e55c9ccb0aaf1d606f19a6cfc4200e00374804cc2fc3c6ad  mise-2026.11.10.tar.gz
 "
